@@ -4,6 +4,12 @@
     border: 1px solid black;
 
   }
+  
+  .emma{
+    background-color:black;
+    color:white;
+    padding:20px;
+  }
 
   .f1{
         background-color:black;
@@ -22,4 +28,17 @@
         color:white;
         padding:10px;
       }
+ }
+
+ .hello{
+  background-color: red;
+ }
+
+ h4{
+  color:orange;
+ }
+
+
+ span{
+  color:rgb(200,25,89)
  }
