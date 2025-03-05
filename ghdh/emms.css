@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 50%;
+    height: 90vh;
+    margin: auto;
+    background-color: #ddd;
+}
+.logo{
+    width: 150px;
+    height: auto;
+}
+nav{
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+}
+.navlinks{
+    display: block;
+}
+.navlinks ul li{
+    display: inline-block;
+}
+.navlinks ul li a{
+    text-decoration: none;
+    color: black;
+    margin-right: 2rem;
+}
+.active{
+    text-decoration: underline;
+}
